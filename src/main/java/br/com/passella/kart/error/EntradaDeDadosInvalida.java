@@ -1,4 +1,4 @@
 package br.com.passella.kart.error;
 
-public class EntradaDeDadosNaoValida extends Throwable {
+public class EntradaDeDadosInvalida extends Throwable {
 }
